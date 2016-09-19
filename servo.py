@@ -18,7 +18,7 @@ def update(angle):
 
 try:
 	while True:
-		update(90)
+		update(45)
 		update(0)
 
 except KeyboardInterrupt:
