@@ -22,6 +22,7 @@ try:
 		update(90)
 
 except KeyboardInterrupt:
+	print "GPIO closeed."
         pass
 
 # stop
